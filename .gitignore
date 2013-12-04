@@ -1,0 +1,8 @@
+/app/cache/*
+/app/logs/*
+/.idea
+/app/DoctrineMigrations
+
+/vendor/*
+!/vendor/bundles
+!/vendor/composer
